@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04E91E63-F4FA-4DF7-A290-5F18557946CB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9462F80F-72C7-469C-9470-76E4B3221C1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather-1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "9462F80F-72C7-469C-9470-76E4B3221C1F - c0b200c48927ea97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_1.ViewController.conditionImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Weather-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhurvdugar/Weather-1/Weather-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "9462F80F-72C7-469C-9470-76E4B3221C1F - 1ed7ac6571a19683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_1.ViewController.conditionImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Weather-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhurvdugar/Weather-1/Weather-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "9462F80F-72C7-469C-9470-76E4B3221C1F - 14f85b42dec25ec5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_1.ViewController.conditionImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Weather-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhurvdugar/Weather-1/Weather-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9462F80F-72C7-469C-9470-76E4B3221C1F - ed8b074a7b527c2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_1.ViewController.conditionImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Weather-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhurvdugar/Weather-1/Weather-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "9462F80F-72C7-469C-9470-76E4B3221C1F - bc4e9a773be2a522"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Weather_1.ViewController"
+                  moduleName = "Weather-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhurvdugar/Weather-1/Weather-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "9462F80F-72C7-469C-9470-76E4B3221C1F - bd9b6b1e21c074ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Weather_1.ViewController&gt;"
+                  moduleName = "Weather-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhurvdugar/Weather-1/Weather-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
