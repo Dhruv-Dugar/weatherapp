@@ -22,7 +22,9 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     @IBOutlet weak var conditionLabel: UILabel!
     @IBOutlet weak var temperatureLabel: UILabel!
     
+    @IBOutlet weak var minTemperatureLabel: UILabel!
     
+    @IBOutlet weak var maxTemperatureLabel: UILabel!
     
     //declaration of variables and apiKey
     let gradientLayer = CAGradientLayer()
