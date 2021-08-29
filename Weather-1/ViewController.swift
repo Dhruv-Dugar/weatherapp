@@ -10,9 +10,9 @@ import Alamofire
 import SwiftyJSON
 import NVActivityIndicatorView
 import CoreLocation
+
+
 class ViewController: UIViewController, CLLocationManagerDelegate {
-    
-    
     
     //connecting the objects of the UI with the code here
     @IBOutlet weak var backgroundView: UIView!
@@ -27,8 +27,9 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     //declaration of variables and apiKey
     let gradientLayer = CAGradientLayer()
     let apiKey = "90590ec508acf09ae262a3f19d2bf442"
-    var lat = 28.6447  //random meme level values
-    var lon = 77.2883   //why even bother if not using meme values
+    //latitude and longitude of New Delhi as default
+    var lat = 28.6447
+    var lon = 77.2883
     var activityIndicator: NVActivityIndicatorView!
     let locationManager = CLLocationManager()
     
